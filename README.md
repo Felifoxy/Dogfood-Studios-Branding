@@ -24,7 +24,7 @@ Don't forget to change the 'Intro Time' and 'Game Scene Name' according to your 
 
 ## Using the intro in Godot
 
-For Godot, paste the 'intro_scene.tscn' into you project and attach your unique Dogfood Studios intro **as an .ogv file** into the video stream variable.
+For Godot, paste the 'intro_scene.tscn' and 'IntroSceneHandler.cs' into you project and attach your unique Dogfood Studios intro **as an .ogv file** into the video stream variable.
 
 Don't forget to change the 'Intro Time' and 'Game Scene Name' according to your project.
 
