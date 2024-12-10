@@ -1,5 +1,7 @@
 # Dogfood-Studios-Branding
 
+![Logo_black_wide_3840x1040](https://github.com/user-attachments/assets/a0cf3f22-74b8-4c98-81f2-3367ca44aa77)
+
 ## Make your unique Dogfood Studios intro
 _Using this method you can make an intro suiting the style of your game while still making use of the pre-defined Dogfood Studios branding._
 
