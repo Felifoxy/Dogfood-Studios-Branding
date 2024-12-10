@@ -3,7 +3,7 @@
 ## Make your unique Dogfood Studios intro
 _Using this method you can make an intro suiting the style of your game while still making use of the pre-defined Dogfood Studios branding._
 
-Use 'DogfoodTitleScreen.avi' to create your own unique intro with the Dogfood Studios Branding.
+Use 'DogfoodTitleScreen.avi' (found in 'DogfoodTitleScreen.zip' due to .avi files with alpha channel being really large) to create your own unique intro with the Dogfood Studios Branding.
 Make sure the Dogfood Studios logo is visible and readable!
 
 https://github.com/user-attachments/assets/cd5c5337-7d95-4a44-830c-10256f9386e9
